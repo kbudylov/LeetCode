@@ -1,7 +1,7 @@
 <?php
 /**
  * Project: leetcode
- * File: Solution_65.php
+ * File: Solution_65_1.php
  * Author: Konstantin Budylov <k.budylov@gmail.com>
  * Date: 01.05.2020 17:36
  */

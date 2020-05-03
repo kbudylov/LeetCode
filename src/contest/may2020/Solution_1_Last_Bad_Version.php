@@ -1,7 +1,7 @@
 <?php
 /**
- * Project: mgkh-server
- * File: Solution.php
+ * Project: leetcode
+ * File: Solution_1_Last_Bad_Version.php
  * Author: Konstantin Budylov <k.budylov@gmail.com>
  * Date: 03.05.2020 2:07
  */
@@ -54,10 +54,5 @@ class Solution_1_Last_Bad_Version {
             }
         }
         return $left;
-    }
-
-    function isBadVersion($version) {
-        if ($version >= 6) return true;
-        return false;
     }
 }

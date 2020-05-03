@@ -1,6 +1,6 @@
 <?php
 /**
- * Project: mgkh-server
+ * Project: leetcode
  * File: Solution_2_Jewels_And_Stones.php
  * Author: Konstantin Budylov <k.budylov@gmail.com>
  * Date: 03.05.2020 6:44
