@@ -6,7 +6,7 @@
         - [Code](Solution_8.php)
         - [Submission](https://leetcode.com/submissions/detail/332709194/)
 
-* 12. Integer to Roman
+* 12: Integer to Roman
     - [See problem](https://leetcode.com/problems/integer-to-roman/) 
     - Solution:
         - [Code](Solution_12.php)
@@ -27,3 +27,9 @@
         - [Code](Solution_65_2.php)
         - [Submission](https://leetcode.com/submissions/detail/333261658/)
 
+* 273: Integer to English Words
+    - [See problem](https://leetcode.com/problems/integer-to-english-words/) 
+    - Solution:
+        - [Code](Solution_273.php)
+        - [Submission](https://leetcode.com/submissions/detail/334140644/)
+        
