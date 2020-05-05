@@ -22,3 +22,14 @@ https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-
     - Solution:
         - [Code](Solution_3_Ransom_Note.php)
         - [Submission](https://leetcode.com/submissions/detail/333851149/)
+
+* ~~4: Ransom Note~~ 
+     - [See problem](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/) 
+         
+
+* 5: First Unique Character in a String 
+    - [See problem](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/) 
+    - Solution:
+        - [Code](Solution_5_First_Unique_Character.php)
+        - [Submission](https://leetcode.com/submissions/detail/334753526/)
+
