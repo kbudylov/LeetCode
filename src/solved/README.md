@@ -11,7 +11,12 @@
     - Solution:
         - [Code](Solution_12.php)
         - [Submission](https://leetcode.com/submissions/detail/334022405/)
-
+    - Another solutions:
+        - (Using complete roman's combinations): [Code](../favorites/Solution_12.php) (no submission)
+        - (Hacker's variant): 
+            - [Code](../favorites/Solution_12_2.php)
+            - [submission](https://leetcode.com/submissions/detail/334761026/)
+            
 * 13: Roman to integer 
     - [See problem](https://leetcode.com/problems/roman-to-integer/) 
     - Solution:
