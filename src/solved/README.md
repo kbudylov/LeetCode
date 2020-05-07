@@ -37,4 +37,6 @@
     - Solution:
         - [Code](Solution_273.php)
         - [Submission](https://leetcode.com/submissions/detail/334140644/)
-        
+    - Another solutions (no submissions):
+        - (Sample 0ms): [Code](../favorites/Solution_273_0.php)
+        - (Sample 8ms): [Code](../favorites/Solution_12_2.php)
