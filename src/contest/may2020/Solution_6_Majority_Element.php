@@ -13,7 +13,7 @@ namespace src\contest\may2020;
  * @package src\contest\may2020
  *
  * https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/
- * https://leetcode.com/submissions/detail/335535089/
+ * https://leetcode.com/submissions/detail/335542453/
  */
 class Solution_6_Majority_Element
 {
@@ -22,9 +22,9 @@ class Solution_6_Majority_Element
      * @return Integer
      */
     function majorityElement($nums) {
-        $counts = array_flip(array_count_values($nums));
-        $n = ceil(count($nums) / 2);
-        foreach($counts as $cnt => $num) {
+        $counts = array_count_values($nums);
+        $n = count($nums) / 2;
+        foreach($counts as $num => $cnt) {
             if ($cnt >= $n) return $num;
         }
         return null;
