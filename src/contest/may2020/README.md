@@ -33,3 +33,8 @@ https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-
         - [Code](Solution_5_First_Unique_Character.php)
         - [Submission](https://leetcode.com/submissions/detail/334753526/)
 
+* 6: Majority Element 
+    - [See problem](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/) 
+    - Solution:
+        - [Code](Solution_6_Majority_Element.php)
+        - [Submission](https://leetcode.com/submissions/detail/335535089/)
