@@ -1,5 +1,11 @@
 # LeetCode solved problems
 
+* 7: Reverse Integer
+    - [See problem](https://leetcode.com/problems/reverse-integer/) 
+    - Solution:
+        - [Code](Solution_7.php)
+        - [Submission](https://leetcode.com/submissions/detail/335874356/)
+
 * 8: Atoi 
     - [See problem](https://leetcode.com/problems/string-to-integer-atoi/) 
     - Solution:
