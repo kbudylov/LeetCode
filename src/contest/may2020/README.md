@@ -3,7 +3,7 @@
 https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/
 
 #### Week 1: May 1st–May 7th
-https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/
+[Summary](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/)
 
 * 1: First Bad Version 
     - [See problem](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/) 
@@ -42,3 +42,18 @@ https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-
     - Solution:
         - [Code](Solution_6_Majority_Element.php)
         - [Submission](https://leetcode.com/submissions/detail/335542453/)
+        
+* ~~7: Cousins in Binary Tree~~
+    - [See problem](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/)
+
+#### Week 2: May 8th–May 7th
+[Summary](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/)
+
+~~* 1: Check If It Is a Straight Line~~ 
+    - [See problem](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/) 
+  
+~~* 2: Valid Perfect Square~~ 
+    - [See problem](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/) 
+  
+~~* 3: Find the Town Judge~~ 
+    - [See problem](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/) 
