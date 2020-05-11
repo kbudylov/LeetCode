@@ -23,9 +23,11 @@ https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-
         - [Code](Solution_3_Ransom_Note.php)
         - [Submission](https://leetcode.com/submissions/detail/333851149/)
 
-* ~~4: Ransom Note~~ 
+* 4: Number Complement 
      - [See problem](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/) 
-         
+     - Solution:
+         - [Code](Solution_4_Number_Complement.php)
+         - [Submission](https://leetcode.com/submissions/detail/337684570/)
 
 * 5: First Unique Character in a String 
     - [See problem](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/) 
