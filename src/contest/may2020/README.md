@@ -25,10 +25,12 @@ https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-
 
 * 4: Number Complement 
      - [See problem](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/) 
-     - Solution:
+     - Solution 1:
          - [Code](Solution_4_Number_Complement.php)
          - [Submission](https://leetcode.com/submissions/detail/337684570/)
-
+     - Solution 2 (no submission):
+         - [Code](../../favorites/Solution_Number_Complement.php)
+         
 * 5: First Unique Character in a String 
     - [See problem](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/) 
     - Solution:
