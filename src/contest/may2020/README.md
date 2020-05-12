@@ -49,11 +49,14 @@ https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/
 #### Week 2: May 8th–May 7th
 [Summary](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/)
 
-~~* 1: Check If It Is a Straight Line~~ 
+* 8: Check If It Is a Straight Line 
     - [See problem](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/) 
-  
-~~* 2: Valid Perfect Square~~ 
+    - Solution: 
+        - [Code](Solution_8_Check_If_Its_A_Straight_Line.php)
+        - [Submission](https://leetcode.com/submissions/detail/338248150/)
+    
+~~* 9: Valid Perfect Square~~ 
     - [See problem](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/) 
   
-~~* 3: Find the Town Judge~~ 
+~~* 10: Find the Town Judge~~ 
     - [See problem](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/) 
