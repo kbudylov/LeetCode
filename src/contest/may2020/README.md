@@ -61,8 +61,11 @@ https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/
         - [Code](Solution_9_Perfect_Square.php)
         - [Submission](https://leetcode.com/submissions/detail/338267812/)
       
-* ~~10: Find the Town Judge~~ 
-    - [See problem](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/) 
+* 10: Find the Town Judge
+    - [See problem](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/)
+    - Solution:
+        - [Code](Solution_10_Find_The_Town_Judge.php)
+        - [Submission](https://leetcode.com/submissions/detail/338375183/) 
 
 * ~~11: Flood Fill~~ 
     - [See problem](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3326/) 
