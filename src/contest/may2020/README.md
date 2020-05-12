@@ -61,10 +61,10 @@ https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/
         - [Code](Solution_9_Perfect_Square.php)
         - [Submission](https://leetcode.com/submissions/detail/338267812/)
       
-~~* 10: Find the Town Judge~~ 
+* ~~10: Find the Town Judge~~ 
     - [See problem](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/) 
 
-~~* 11: Flood Fill~~ 
+* ~~11: Flood Fill~~ 
     - [See problem](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3326/) 
 
 * 12: Single Element in a Sorted Array
