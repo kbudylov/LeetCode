@@ -55,9 +55,12 @@ https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/
         - [Code](Solution_8_Check_If_Its_A_Straight_Line.php)
         - [Submission](https://leetcode.com/submissions/detail/338248150/)
     
-~~* 9: Valid Perfect Square~~ 
+* 9: Valid Perfect Square
     - [See problem](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/) 
-  
+    - Solution:
+        - [Code](Solution_9_Perfect_Square.php)
+        - [Submission](https://leetcode.com/submissions/detail/338267812/)
+      
 ~~* 10: Find the Town Judge~~ 
     - [See problem](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/) 
 
