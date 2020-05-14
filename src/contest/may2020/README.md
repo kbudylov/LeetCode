@@ -76,4 +76,11 @@ https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/
         - [Code](Solution_12_Single_Element_In_Sorted_Array.php)
         - [Submission](https://leetcode.com/submissions/detail/338248150/?from=/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/)
         
- 
+* ~~13: Remove K Digits~~
+    - [See problem](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3328/)
+    
+* 14: Implement Trie (Prefix Tree)
+    - [See problem](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3329/)
+    - Solution:
+        - [Code](Solution_14_Implement_Trie.php)
+        - [Submission](https://leetcode.com/submissions/detail/339206548/) 
